@@ -16,6 +16,10 @@ The two people are the **sender (faculty member)** and **recipient (examination 
 
 ## Sequence of events
 
+![Sequence diagram showing the sender, untrusted channel, recipient, and verification outcomes](sequence_diagram.png)
+
+Editable Mermaid source:
+
 ```mermaid
 sequenceDiagram
     actor Faculty as Sender (faculty)
