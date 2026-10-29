@@ -1,0 +1,8 @@
+# Secrets and generated key material
+**/*.pem
+.env
+
+# Local Python environment and generated cache
+.venv/
+__pycache__/
+*.py[cod]

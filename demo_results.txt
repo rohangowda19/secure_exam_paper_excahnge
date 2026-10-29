@@ -1,0 +1,11 @@
+Secure Examination-Paper Exchange — demonstration results
+Demo-only private-key passphrase: workshop-demo-only-passphrase
+These demo keys are generated automatically and must not be used for real papers.
+
+PASS: authorized recipient recovered byte-identical original file.
+PASS: ciphertext modification rejected; no plaintext written (Signature verification failed: package may be altered or sender key is wrong.).
+PASS: metadata modification rejected; no plaintext written (Signature verification failed: package may be altered or sender key is wrong.).
+PASS: signature modification rejected; no plaintext written (Signature verification failed: package may be altered or sender key is wrong.).
+PASS: incorrect recipient private key rejected; no plaintext written (This recipient private key does not match the package.).
+PASS: incorrect trusted sender public key rejected; no plaintext written (Sender key fingerprint does not match the trusted key recorded in the package.).
+PASS: encrypting the same file twice produced different packages and nonces.

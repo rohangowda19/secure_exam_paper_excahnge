@@ -1,0 +1,9 @@
+INSTITUTE: Example Institute
+EXAMINATION: Secure Systems Workshop
+DATE: 2026-11-15
+
+SECTION A
+1. Explain confidentiality, integrity, and authentication in a secure file exchange.
+2. Describe why a fresh AES-GCM nonce must be used for each encryption with a key.
+
+This is fictional sample content for the workshop demonstration.
